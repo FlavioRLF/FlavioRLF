@@ -1,6 +1,14 @@
-[![Fleig](https://github-readme-stats.vercel.app/api?username=FlavioRLF&theme=great-gatsby))](https://github.com/FlavioRLF/github-readme-stats)
+[![Fleig](https://github-readme-stats.vercel.app/api?username=FlavioRLF&theme=great-gatsby)](https://github.com/FlavioRLF/github-readme-stats)
+</a> </p>
+<br />
+<div align="center">
+   <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlavioRLF&theme=2077"/>
+   <img height "130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FlavioRLF&theme=2077"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioRLF&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+ </a>
+</div>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlavioRLF={username=FlavioRLF}&theme={2077}
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FlavioRLF&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **FlavioRLF/FlavioRLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
