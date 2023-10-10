@@ -7,7 +7,7 @@
  </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FlavioRLF&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FlavioRLF&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c3" width="40" heigth="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
