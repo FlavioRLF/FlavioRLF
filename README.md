@@ -1,6 +1,7 @@
-</a> </p>
-<br />
-<div align="center">
+<div>
+   <h1></h1>
+</div>
+<div align="left">
    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlavioRLF&theme=algolia"/>
    <img height "130em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FlavioRLF&theme=algolia"/>
    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FlavioRLF&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
