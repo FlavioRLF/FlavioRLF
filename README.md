@@ -1,6 +1,6 @@
 <div>
    <h1>About Me</h1>
-      💻 Computer Engineering student
+      💻 Computer Engineering
 </div>
 <br>
 <div align="left">
